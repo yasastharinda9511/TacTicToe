@@ -9,3 +9,7 @@ to be worse than a previously examined move. Such moves need not be evaluated fu
 it returns the same move as minimax would, but prunes away branches that cannot possibly influence the final decision.
 
 
+# Screenshots of the Game
+
+![Screenshot (529)](https://user-images.githubusercontent.com/37435024/99708959-8ea3fb00-2ac4-11eb-864b-94e17370a11c.png)
+![Screenshot (531)](https://user-images.githubusercontent.com/37435024/99708966-9368af00-2ac4-11eb-937a-95c37f8c7611.png)
